@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_ArmyFactory.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Artillery.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Fighter_plane.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Military_robot.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Tank.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Simplex.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Armored_carrier.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_ArmyFactory.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Artillery.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Fighter_plane.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Military_robot.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Tank.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Army.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Cold_war.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Exception.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\main.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Armored_carrier.cpp">
+      <Filter>Файлы ресурсов\Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Tank.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Armored_carrier.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Army.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\ArmyFactory.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Artillery.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Cold_war.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Exception.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Fighter_plane.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Header.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Military_robot.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Armored_carrier.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_ArmyFactory.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Artillery.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Fighter_plane.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Military_robot.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Russian_Tank.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Simplex.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\Tank.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Armored_carrier.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_ArmyFactory.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Artillery.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Fighter_plane.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\ARMY_Abstract_Factory-master\USA_Military_robot.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
